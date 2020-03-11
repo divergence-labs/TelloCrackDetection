@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbc6766e-3937-4692-97cc-a6edd25966a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/tellopy/examples/video_effect.py" beforeDir="false" afterPath="$PROJECT_DIR$/tellopy/examples/video_effect.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Practice\TelloPy\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/TelloPy.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YOjA2pIyB0il6SChctW8XgxQkD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.video_effect">
+    <configuration name="keyboard_and_video" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TelloPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tellopy/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tellopy/examples/keyboard_and_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simple_takeoff" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TelloPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tellopy/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tellopy/examples/simple_takeoff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="video_effect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TelloPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tellopy/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tellopy/examples/video_effect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.video_effect" />
+        <item itemvalue="Python.keyboard_and_video" />
+        <item itemvalue="Python.simple_takeoff" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbc6766e-3937-4692-97cc-a6edd25966a1" name="Default Changelist" comment="" />
+      <created>1557720432104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557720432104</updated>
+      <workItem from="1557720440941" duration="3071000" />
+      <workItem from="1557726180591" duration="7555000" />
+      <workItem from="1558043368308" duration="4233000" />
+      <workItem from="1558102426985" duration="4132000" />
+      <workItem from="1558109877650" duration="1550000" />
+      <workItem from="1558226669997" duration="2845000" />
+      <workItem from="1558234728593" duration="12750000" />
+      <workItem from="1558360534520" duration="2406000" />
+      <workItem from="1560197043998" duration="4176000" />
+      <workItem from="1560971887083" duration="624000" />
+      <workItem from="1561123355666" duration="1313000" />
+      <workItem from="1561577953655" duration="5108000" />
+      <workItem from="1563201304360" duration="2389000" />
+      <workItem from="1563463509749" duration="751000" />
+      <workItem from="1568146570595" duration="723000" />
+      <workItem from="1568750736038" duration="1267000" />
+      <workItem from="1572291360701" duration="1349000" />
+      <workItem from="1574801416800" duration="25000" />
+      <workItem from="1582820392195" duration="240000" />
+      <workItem from="1582820644267" duration="185000" />
+      <workItem from="1582820960347" duration="1885000" />
+      <workItem from="1582822866508" duration="1561000" />
+      <workItem from="1583936853999" duration="779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="675" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583936981383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="675" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583936981383" />
+    <state x="739" y="277" key="FileChooserDialogImpl" timestamp="1582822646787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582822646787" />
+    <state width="933" height="278" key="GridCell.Tab.0.bottom" timestamp="1582832963932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="933" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582832963932" />
+    <state width="933" height="278" key="GridCell.Tab.0.center" timestamp="1582832963932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="933" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582832963932" />
+    <state width="933" height="278" key="GridCell.Tab.0.left" timestamp="1582832963932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="933" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582832963932" />
+    <state width="933" height="278" key="GridCell.Tab.0.right" timestamp="1582832963932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="933" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582832963932" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1582822697078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582822697078" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TelloPy$simple_takeoff.coverage" NAME="simple_takeoff Coverage Results" MODIFIED="1558293554113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tellopy/examples" />
+    <SUITE FILE_PATH="coverage/TelloPy$keyboard_and_video.coverage" NAME="keyboard_and_video Coverage Results" MODIFIED="1558296235339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tellopy/examples" />
+    <SUITE FILE_PATH="coverage/TelloPy$video_effect.coverage" NAME="video_effect Coverage Results" MODIFIED="1582823203001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tellopy/examples" />
+  </component>
+</project>
